@@ -1,5 +1,7 @@
 CREATE DATABASE bamazon;
 
+USE bamazon;
+
 CREATE TABLE products
 (
 	item_id INT AUTO_INCREMENT NOT NULL,
